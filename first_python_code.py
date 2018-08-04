@@ -20,4 +20,4 @@ your_name = 'Ciara Bautista'
 # Then, uncomment the next line by removing the "#" sign
 print('{} loves Python!'.format(your_name))
 
-print('Currently enjoying my first Python Study Group here at Zendesk')
+print('Currently enjoying my first Python Study Group here at Zendesk!')
