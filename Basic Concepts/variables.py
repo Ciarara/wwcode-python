@@ -16,3 +16,19 @@ movie_title = 'superwoman'
 #Let's print out their values
 
 print(num, dec, is_wwc_great, has_forever, movie_title)
+
+#Re-assignment of variables 
+
+
+num = 100
+has_Forever = True 
+print(num, has_Forever)
+
+
+#Let's change the value of variable num 
+num = 500
+print(num)
+
+
+has_Forever = False
+print(has_Forever)
