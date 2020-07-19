@@ -1,0 +1,18 @@
+#Variables - are like containers that allows us to store values/data. 
+
+# integer - positive/negative whole numbers
+num = 88 
+
+# float /decimal - positive/negative numbers with decimal 
+dec = 99.99 
+
+#Boolean - True or False
+is_wwc_great = True 
+has_forever = False
+
+#String - series of characters enclosed in single/double quotes
+movie_title = 'superwoman'
+
+#Let's print out their values
+
+print(num, dec, is_wwc_great, has_forever, movie_title)
