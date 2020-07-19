@@ -1,6 +1,4 @@
-# Basic example on how to print
-# text using different approach in
-# Python.
+# Basic example on how to print text using different approach in Python.
 
 organization = 'WomenWhoCode!'
 
