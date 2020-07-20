@@ -10,7 +10,7 @@ def hello_world(): #the function is given a name which is also used to generate 
 
 #To run the application you can either use the flask command or python’s -m switch with Flask. Before you can do that you need to tell your terminal the application to work with by exporting the FLASK_APP environment variable:
 
-#$ export FLASK_APP=hello.py
+#$ export FLASK_APP=app.py
 # To run your app in debug mode, set the FLASK_DEBUG environment variable to 1 before running the application:
 #$ export FLASK_DEBUG=1
 #$ flask run
